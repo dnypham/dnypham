@@ -1,5 +1,5 @@
-# Hello World 👋
-My name is Daniel Pham
+# Hello! 👋
+I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to creatively solve problems. I'm excited to work for a company where I can continue to learn and expand my knowledge.
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnypham&theme=solarized-light&icons=true)](https://github.com/dnypham)
 
