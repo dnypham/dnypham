@@ -1,6 +1,8 @@
 # Hello! 👋
 I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to creatively solve problems. I'm excited to work for a company where I can continue to learn and expand my knowledge.
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
+
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnypham&theme=solarized-light&icons=true)](https://github.com/dnypham)
 
 ### Languages 
@@ -23,6 +25,3 @@ I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Find me here!
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
