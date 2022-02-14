@@ -1,4 +1,5 @@
 # Hello World 👋
+My name is Daniel Pham
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnypham&theme=solarized-light&icons=true)](https://github.com/dnypham)
 
