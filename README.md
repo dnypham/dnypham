@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hi! 👋
 I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to creatively solve problems. I'm excited to work for a company where I can continue to learn and expand my knowledge.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
