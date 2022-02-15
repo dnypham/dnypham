@@ -11,7 +11,7 @@ I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Cruz&theme=solarized-light)](https://github.com/dnypham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnypham&theme=solarized-light)](https://github.com/dnypham)
 
 ### Technologies & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
