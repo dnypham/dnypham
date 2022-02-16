@@ -4,7 +4,7 @@ I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to 
 ## Contact
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
 
-[Resume](https://drive.google.com/file/d/1QWSQ65Qzn4Rjqv1AOek894Ow4oI2ekm9/view?usp=sharing)
+[<img src="https://user-images.githubusercontent.com/85265067/154174450-33826e5b-ff56-4117-bab6-8e818ed97590.svg">](https://drive.google.com/file/d/1QWSQ65Qzn4Rjqv1AOek894Ow4oI2ekm9/view?usp=sharing)
 
 ## Stats
 
