@@ -3,6 +3,8 @@ I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
 
+[Resume](https://drive.google.com/file/d/1QWSQ65Qzn4Rjqv1AOek894Ow4oI2ekm9/view?usp=sharing)
+
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnypham&theme=calm&icons=true)](https://github.com/dnypham)
 
 ### Languages 
