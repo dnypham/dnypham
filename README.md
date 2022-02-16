@@ -2,11 +2,9 @@
 I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to creatively solve problems. I'm excited to work for a company where I can continue to learn and expand my knowledge.
 
 ## Contact
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
-
 [<img src="https://user-images.githubusercontent.com/85265067/154174668-0497dcb2-7918-434b-b226-93c5fad8397e.svg">](https://drive.google.com/file/d/1QWSQ65Qzn4Rjqv1AOek894Ow4oI2ekm9/view?usp=sharing)
 
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-pham-10)
 
 ## Stats
 
