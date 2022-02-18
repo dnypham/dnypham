@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hi! I'm Danny 👋
 I'm Danny, a Full-Stack Web Developer who loves to code because it allows me to creatively solve problems. I'm excited to work for a company where I can continue to learn and expand my knowledge.
 
 ## Resume
